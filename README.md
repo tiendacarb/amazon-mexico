@@ -1,2 +1,3 @@
 # amazon-mexico
-novedades y ofertas
+novedades y ofertas,
+hola! un gusto atenderles
